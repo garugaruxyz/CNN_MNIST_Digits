@@ -1,6 +1,6 @@
 # CNN_MNIST_Digits
  
-The task of the assignment #2 is the design of a CNN architecture and its training.
+The task of the assignment is the design of a CNN architecture and its training.
 
 Input dataset: MNIST digits (input size 28x28x1, number of classes: 10).
 The dataset is not distributed since can be easily downloaded directly from Keras.
